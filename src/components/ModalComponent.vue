@@ -58,7 +58,10 @@ import { store } from '../store/todo.js'
 
 <style scoped>
 .modal-card {
-    transform: translateY(-100%);
+    left: 50%;
+    top: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    position: absolute;
 }
 
 .fade-enter,
