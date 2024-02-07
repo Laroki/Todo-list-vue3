@@ -3,7 +3,7 @@
 </template>
   
 <script>
-import TodoListComponent from './TodoListComponent.vue'
+import TodoListComponent from '../TodoListComponent.vue'
 export default {
   name: 'DefaultComponent',
   components: {

@@ -7,9 +7,7 @@
         </a>
       </div>
       <div class="text-white text-center grid-cols-2 font-bold">
-        <a class="px-2 underline underline-offset-2 hover:text-sky-400" href="#">Todo</a>
-        <a class="px-2 underline underline-offset-2 hover:text-sky-400" href="#">Done</a>
-        <a class="px-2 underline underline-offset-2 hover:text-sky-400" href="#">Add</a>
+        <!-- <a class="px-2 underline underline-offset-2 hover:text-sky-400" href="#">Todo</a> -->
       </div>
     </nav>
   </header>
